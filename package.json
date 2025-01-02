@@ -1,0 +1,24 @@
+{
+  "name": "expo-filament",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/react": "18.3.11",
+    "@types/react-dom": "^19.0.2",
+    "eslint": "^8.51.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "prettier": "^3.0.3",
+    "react": "18.3.1",
+    "react-dom": "^19.0.0"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "filament": "^1.53.4",
+    "react-native-filament": "^1.5.1"
+  }
+}

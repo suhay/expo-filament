@@ -1,2 +1,2 @@
-# react-filament
-Web based parity of react-native-filament using vanilla React
+# expo-filament
+Expo wrapper for react-native-filament
